@@ -37,33 +37,28 @@ nav {
     margin-bottom: 20px;
   }
 
-  #acerca-de-mi {
+  #acercaDemi {
     text-align: justify;
     
   }
   #habilidades ul {
-    list-style: none;
+    list-style: disc;
     padding: 0;
   }
   
   #habilidades ul li {
-    display: inline-block;
     padding: 5px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
     margin-right: 10px;
   }
   #experiencia ul {
-    list-style: none;
     padding: 0;
     margin: 0;
   }
   
-  #experiencia ul li {
-    margin-bottom: 10px;
+  #experiencia li {
+    margin-left: 10px;
   }
   #proyectos ul {
-    list-style: none;
     padding: 0;
     margin: 0;
   }
@@ -77,7 +72,7 @@ nav {
     text-decoration: underline;
   }
   #sociales {
-    list-style: none;
+    list-style: disc;
     padding: 0;
     margin-top: 10px;
   }
